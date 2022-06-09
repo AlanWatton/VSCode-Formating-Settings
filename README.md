@@ -1,4 +1,4 @@
-# VSCode-Formating-Settings
+# VSCode Formating Settings
 
 Code formating settings.json for VSCode
 
